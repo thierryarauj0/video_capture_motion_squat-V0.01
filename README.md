@@ -1,2 +1,2 @@
-# video_capture_motion_squat-V0.1
- 
+# squat_motion_capture_correct_V0.1
+ captador de movimento correto ou errado
